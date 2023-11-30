@@ -8,6 +8,7 @@
 #include <boost/serialization/split_member.hpp>
 #include <boost/smart_ptr/intrusive_ptr.hpp>
 #include <iosfwd>
+#include <limits>
 
 #ifndef BOOST_BYTE_ORDER
 #if BOOST_ENDIAN_BIG_BYTE
